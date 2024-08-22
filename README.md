@@ -1,4 +1,4 @@
-# pe-analyser
+# pe_analyser
 Just a fast little PE File Analyser!
 
 Usage:
