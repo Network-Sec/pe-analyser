@@ -1,10 +1,6 @@
 # pe-analyser
 Just a fast little PE File Analyser!
 
-![pe_analyser_1](https://github.com/user-attachments/assets/cc7121de-8c0a-416e-bbc5-8f405c304117)
-
-![pe_analyser_2](https://github.com/user-attachments/assets/57d9333b-99e5-4f99-bf05-e8626256b61d)
-
 Usage:
 ```
 $ python pe_analyser.py -h
@@ -21,3 +17,8 @@ options:
   -l, --long   Display detailed information
   --flask      Start a Flask server to display results
 ```
+
+![pe_analyser_1](https://github.com/user-attachments/assets/cc7121de-8c0a-416e-bbc5-8f405c304117)
+
+![pe_analyser_2](https://github.com/user-attachments/assets/57d9333b-99e5-4f99-bf05-e8626256b61d)
+
